@@ -1,0 +1,19 @@
+.color1{
+	color: green;
+}
+
+.color2{
+	color: #4B0082;
+}
+
+.color3{
+	color: #aaa;
+}
+
+.color4{
+	color: rgb(255, 0, 255);
+}
+
+.color5{
+	color: rgba(150, 0, 0, 0.15);
+}

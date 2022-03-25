@@ -1,0 +1,48 @@
+*{
+	
+}
+
+
+/*Tag name*/
+
+body{
+	background: #eee;
+}
+
+/*Classes*/
+.card{
+	padding: 10px;
+	background: #fff;
+	margin-bottom: 10px;
+}
+
+
+.card p {
+	font-size: 14px;
+}
+
+.html{
+	border: 15px solid green;
+	border-radius: 45px;
+	background: #e55f28;
+	color: white;
+}
+
+.css{
+	border: 15px solid green;
+	border-radius: 45px;
+	background: #0d56a7;
+	color: white;
+}
+
+/*id*/
+
+#header{
+	background: #ddd;
+	padding: 10px;
+}
+
+
+#header, .card {
+	margin-bottom: 10px;
+}
